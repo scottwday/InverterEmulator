@@ -1,0 +1,15 @@
+
+*.suo
+/src/InverterEmulator/obj
+/src/InverterEmulator/bin
+/bin/Release/InverterEmulator.pdb
+/bin/Release/InverterEmulator.vshost.exe
+/bin/Release/InverterEmulator.vshost.exe.config
+/bin/Release/InverterEmulator.exe.config
+/bin/Debug/InverterEmulator.vshost.exe.config
+/bin/Debug/InverterEmulator.vshost.exe.manifest
+/bin/Debug/InverterEmulator.exe.config
+/bin/Debug/InverterEmulator.vshost.exe
+/bin/InverterEmulator.vshost.exe.config
+/bin/InverterEmulator.vshost.exe.manifest
+/bin/InverterEmulator.exe.config
